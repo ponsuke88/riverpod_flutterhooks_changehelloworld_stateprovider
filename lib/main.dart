@@ -24,7 +24,7 @@ void main() {
 
 // ポイント4
 // 引数を以下のようにしてStateProviderオブジェクトを
-// 生成しstringStateProviderに入れる
+// 生成してstringStateProviderに入れる
 // これによってどのクラスからでも
 // stringStateProviderを参照することができて
 // さらにProviderでは実現できなかった値の変更もできる

@@ -64,7 +64,7 @@ class MyApp extends HookWidget {
           onPressed: () {
 
             // ポイント8
-            // stringstate.stateに新しい文字列を入れる
+            // stringstate.stateで新しい文字列を入れる
             stringstate.state = "こんにちは世界";
             // ポイント4のところで
             // Provider((ref) => 'Hello world');を
